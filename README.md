@@ -48,3 +48,5 @@
 
 - RealityCapture 3D print: https://www.capturingreality.com/manufacturing-3Dprinting
 - How To Use RealityScan: https://youtu.be/HVkvHZCmVjU?si=L629gyrV5xjFkjMu
+
+- model totální stanice: https://cults3d.com/en/3d-model/art/leica-total-station-ms60-kit-to-assemble
